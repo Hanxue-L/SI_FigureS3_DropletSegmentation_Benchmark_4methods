@@ -1,0 +1,15 @@
+bbf5d8e3797b552d637ae9fa6e0a0f0c ./S3e_maskrcnn_CLAHE_t0.05_overlay.png
+b177ab6faa294c5dbeb4bc25e3b8467d ./metrics_summary.csv
+ebd5fc6b973ddac0609a713117e86530 ./S3b_otsu_overlay.png
+596778885fd1c033caddee03c0b202c8 ./README.md
+675c9cff07e44ad2aa4776f5b31cd769 ./preview/file_list.txt
+5dd3a8f4f0fbe8b360ca8505efd84780 ./preview/Figure_S3_montage.png
+2e1d385c7e35f1668a114ad10fa10f81 ./MANIFEST_md5.txt
+1c346e0dfcdfb74ff00ceb9b6f6cf81b ./S3a_raw_green.png
+5287585564075ecc169022b915a75dbd ./S3d_hough_overlay.png
+bed323e89cfeb584201b5d084419007f ./masks/S3b_otsu_mask.png
+be70438e47b71dce73d819a4ce09866c ./masks/S3c_watershed_labels.png
+c1d6548781183e14047fdd86d05290ea ./masks/S3d_hough_circles.csv
+1717ccda3089bfcbb0e5d66eec0f788f ./masks/S3d_hough_mask.png
+0db707a8389170d0e0581e381190009d ./masks/S3e_maskrcnn_mask.png
+17647cc12714388f164b2bd53ff062c1 ./S3c_watershed_overlay.png
