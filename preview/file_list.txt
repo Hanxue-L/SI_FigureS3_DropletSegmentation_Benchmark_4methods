@@ -1,0 +1,36 @@
+SI_FigureS3_DropletSegmentation_Benchmark_4methods
+|____S3e_maskrcnn_CLAHE_t0.05_overlay.png
+|____metrics_summary.csv
+|____S3b_otsu_overlay.png
+|____README.md
+|____preview
+| |____file_list.txt
+| |____Figure_S3_montage.png
+|____S3a_raw_green.png
+|____S3d_hough_overlay.png
+|____masks
+| |____S3b_otsu_mask.png
+| |____S3c_watershed_labels.png
+| |____S3d_hough_circles.csv
+| |____S3d_hough_mask.png
+| |____S3e_maskrcnn_mask.png
+|____S3c_watershed_overlay.png
+total 11800
+drwxr-xr-x@ 7 hanxueli  staff   224B 12 14 15:45 masks
+-rw-r--r--@ 1 hanxueli  staff   307B 12 14 15:45 metrics_summary.csv
+drwxr-xr-x@ 4 hanxueli  staff   128B 12 14 15:47 preview
+-rw-r--r--@ 1 hanxueli  staff   1.6K 12 14 15:45 README.md
+-rw-r--r--@ 1 hanxueli  staff   1.1M 12 14 15:45 S3a_raw_green.png
+-rw-r--r--@ 1 hanxueli  staff   1.2M 12 14 15:45 S3b_otsu_overlay.png
+-rw-r--r--@ 1 hanxueli  staff   1.2M 12 14 15:45 S3c_watershed_overlay.png
+-rw-r--r--@ 1 hanxueli  staff   1.2M 12 14 15:45 S3d_hough_overlay.png
+-rw-r--r--@ 1 hanxueli  staff   1.1M 12 14 15:45 S3e_maskrcnn_CLAHE_t0.05_overlay.png
+total 3480
+-rw-r--r--@ 1 hanxueli  staff   1.7M 12 14 15:45 Figure_S3_montage.png
+-rw-r--r--@ 1 hanxueli  staff   1.1K 12 14 15:51 file_list.txt
+total 280
+-rw-r--r--@ 1 hanxueli  staff    43K 12 14 15:45 S3b_otsu_mask.png
+-rw-r--r--@ 1 hanxueli  staff    71K 12 14 15:45 S3c_watershed_labels.png
+-rw-r--r--@ 1 hanxueli  staff   836B 12 14 15:45 S3d_hough_circles.csv
+-rw-r--r--@ 1 hanxueli  staff    10K 12 14 15:45 S3d_hough_mask.png
+-rw-r--r--@ 1 hanxueli  staff   6.7K 12 14 15:45 S3e_maskrcnn_mask.png

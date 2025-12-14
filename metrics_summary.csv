@@ -1,0 +1,5 @@
+method,preprocessing,score_threshold,detected_count,notes
+Otsu,Gaussian Blur 5x5,N/A,795,Severe over-segmentation (noise)
+Watershed,Otsu + Morph + DistTransform,N/A,90,Best overall balance
+Hough,CLAHE + Blur 3x3,N/A,69,High precision for circles
+Mask R-CNN,CLAHE + Tiling,0.05,40,Zero-shot upper limit
